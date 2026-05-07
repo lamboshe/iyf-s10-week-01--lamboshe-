@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sean Katiech - About Me</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background-color: #111827;
+            color: white;
+            margin: 0;
+            padding: 0;
+        }
+
+        header{
+            background-color: #2563eb;
+            text-align: center;
+            padding: 30px;
+        }
+
+        section{
+            padding: 20px;
+        }
+
+        .card{
+            background-color: #1f2937;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 10px;
+        }
+
+        h2{
+            color: #60a5fa;
+        }
+
+        ul{
+            line-height: 2;
+        }
+
+        footer{
+            text-align: center;
+            padding: 15px;
+            background-color: #2563eb;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Sean Katiech</h1>
+        <p>Beginner Web Developer | Videographer | Digital Creator</p>
+    </header>
+
+    <section>
+
+        <div class="card">
+            <h2>About Me</h2>
+            <p>
+                Hello! My name is Sean. I am learning HTML, CSS, and JavaScript.
+                I love coding websites, editing videos, and creating content for YouTube.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>My Skills</h2>
+
+            <ul>
+                <li>HTML & CSS</li>
+                <li>JavaScript Basics</li>
+                <li>Video Editing</li>
+                <li>Photography</li>
+                <li>Digital Marketing</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h2>My Goals</h2>
+
+            <p>
+                I want to become a professional web developer and videographer.
+                I also want to build creative websites and apps in the future.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>Contact</h2>
+
+            <p>Email: seankatiech@example.com</p>
+            <p>YouTube: @seankatiech</p>
+        </div>
+
+    </section>
+
+    <footer>
+        <p>© 2026 Sean Katiech. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
